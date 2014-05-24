@@ -1,0 +1,4 @@
+{ "sessions" : [{ "time" : "10.00am", "topic" : "Introduction to Linux", "Facilitator" : "Chathura Amaratunga"} ,
+                { "time" : "11.00am", "topic" : "Kerberos and SAML", "Facilitator" : "Prabodha Dissanayake"} ,
+                { "time" : "12.00noon" , "topic" : "Version Control Systems", "Facilitator" : "Ramindu Deshapriya"}] }
+                
