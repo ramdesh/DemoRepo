@@ -1,4 +1,4 @@
-{ "sessions" : [{ "time" : "10.00am", "topic" : "Introduction to Linux", "Facilitator" : "Chathura Amaratunga"} ,
-                { "time" : "11.00am", "topic" : "Kerberos and SAML", "Facilitator" : "Prabodha Dissanayake"} ,
-                { "time" : "12.00noon" , "topic" : "Version Control Systems", "Facilitator" : "Ramindu Deshapriya"}] }
+{ "sessions" : [{ "time" : "10.00am", "topic" : "Introduction to Linux", "Facilitator" : "Chathura Amaratunga", "1"} ,
+                { "time" : "11.00am", "topic" : "Kerberos and SAML", "Facilitator" : "Prabodha Dissanayake", "2"} ,
+                { "time" : "12.00noon" , "topic" : "Version Control Systems", "Facilitator" : "Ramindu Deshapriya", "3"}] }
                 
