@@ -1,4 +1,4 @@
-{ "outline" : [{ "time" : "10.00am", "topic" : "Introduction distributed version control", "id" : "1"} ,
+{ "outline" : [{ "time" : "10.00am", "topic" : "Introduction to distributed version control", "id" : "1"} ,
                 { "time" : "10.30am", "topic" : "Introduction to Git", "id" : "2"} ,
                 { "time" : "11.00am" , "topic" : "Introduction to Github", "id" : "3"}] }
                 
