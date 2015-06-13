@@ -3,7 +3,8 @@
 		{"time" : "10.00am", "topic" : "Introduction to distributed version control", "id" : "1"} ,
                 { "time" : "10.30am", "topic" : "Introduction to Git", "id" : "21"} ,
                 { "time" : "11.00am" , "topic" : "Introduction to Github", "id" : "3"},
-                { "time" : "12:00", "topic" : "Introduction to SVN", "id" : "4"}
+                { "time" : "12:00", "topic" : "Introduction to SVN", "id" : "4"},
+                { "time" : "12:15", "topic" : "How to create a pull request" }
               ] 
 }
                 
